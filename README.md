@@ -1,1 +1,1 @@
-# c4-model
+# Stratify C4 Modeling Tool
